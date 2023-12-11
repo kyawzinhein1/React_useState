@@ -1,0 +1,45 @@
+.main{
+    width: 60%;
+    margin: auto;
+}
+.bg{
+    box-shadow: 0 17px 16px 0 #0000001a;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+}
+.form-div{
+    margin-bottom: 10px;   
+}
+.form-div label{
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+}
+.form-div input{
+    font-size: 16px;
+    width: 90%;
+    border-radius: 8px;
+    border: 1px solid #999999;
+    padding: 5px;
+}
+.btn{
+    color: #fff;
+    padding: 8px 9px;
+    background-color: #14a4dd;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: 0.2s;
+}
+.btn:hover{
+    background-color: #138ab9;
+}
+.card-mt{
+    margin-top: 20px;
+    padding: 10px;
+}
+.list{
+    font-size: 16px;
+    
+}
